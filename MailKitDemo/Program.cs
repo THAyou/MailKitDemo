@@ -11,8 +11,6 @@ namespace MailKitDemo
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello MailKit!");
-            SendMail();
-            ReceiceMail();
         }
 
         /// <summary>
